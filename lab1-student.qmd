@@ -10,10 +10,7 @@ format:
     toc-location: "right-body"
     theme: darkly
     code-fold: true
-editor: 
-  source:
-    markdown: 
-      wrap: 72
+editor: source
 embed-resources: true
 self-contained: true
 execute: 
